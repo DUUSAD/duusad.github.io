@@ -1,3 +1,4 @@
-alias:: tft
+alias:: tft, TFT
 
+-
 -
