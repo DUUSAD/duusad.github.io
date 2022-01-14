@@ -1,2 +1,3 @@
 - #[[Futures & Foresight Education]] #IB #Year10
+- alias:: GFF, 10GFF
 -
