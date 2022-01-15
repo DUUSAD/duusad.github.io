@@ -21,6 +21,7 @@ alias:: core, COR
 - [[ICT4IB]]
 - [[CAS]]
 	- Group projects
+	-
 - [[Origami]]
 - [[MMV - Meditation, Mindfulness & Visualization]]
 - [[Tools For Thinking]]
