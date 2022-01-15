@@ -1,4 +1,3 @@
 - #core+ #3d #[[Social Media]]
-- https://www.humanetech.com/youth?utm_source=Movement+for+Humane+Technology&utm_campaign=a10d90b451-EMAIL_CAMPAIGN_2021_09_17_12_47_COPY_01&utm_medium=email&utm_term=0_df2ee1f826-a10d90b451-79062393
-- https://www.humanetech.com/youth?utm_source=Movement+for+Humane+Technology&utm_campaign=a10d90b451-EMAIL_CAMPAIGN_2021_09_17_12_47_COPY_01&utm_medium=email&utm_term=0_df2ee1f826-a10d90b451-79062393
+- https://www.humanetech.com/youth
 -
