@@ -3,7 +3,8 @@ title:: 10 IB Global Futures & Foresight
 - #[[Futures & Foresight Education]] #IB #Year10
 - alias:: GFF, 10GFF
 - [[Term 1]]
-	- Unit:
+	- Unit: [[Personal Futures]]
+	  The futures of me, my life, education, work
 	- [[Planner]]
 	  collapsed:: true
 		- [[T1W1]]
