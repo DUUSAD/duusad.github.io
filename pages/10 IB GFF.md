@@ -1,7 +1,9 @@
 - #[[Futures & Foresight Education]] #IB #Year10
 - alias:: GFF, 10GFF
 - [[Term 1]]
-	- T
+	- [[T1W1]]
+	- [[T1W2]]
+	- T1W3
 - [[Term 2]]
 - [[Term 3]]
 - [[Term 4]]
