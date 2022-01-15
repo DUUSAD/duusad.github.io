@@ -6,7 +6,10 @@
 		- [[Social Media & The Brain - CHT]]
 		- [[Seeing the Consequences - CHT]]
 	- Action Guides
-	-
+		- [[Tell Your Social Media Story]]
+		- [[Take Control of Your Social Media Usage]]
+		  How do I shift my use of technology for good?
+		-
 - [Teaching for Humane Technology](https://www.humanetech.com/youth/teaching-for-humane-technology)
 	- for teachers
 	- Get the most out of the Center for Humane Technology’s Youth Toolkit in your classroom.
