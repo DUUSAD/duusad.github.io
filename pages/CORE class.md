@@ -2,15 +2,15 @@ title:: CORE class
 alias:: core, COR
 
 - [[11 CORE class]] #11IB
-- Components
-	- [[QCAA points]] security
-		- [[Microsoft Office certificate]]
-	- [[CAS]]
-	- [[Callido]]
-	- [[Extended Essay]]
-	- [[Outdoor Recreation Certificate 2]]
-	- [[Concept Mapping]]
-	-
+	- Components
+		- [[QCAA points]] security
+			- [[Microsoft Office certificate]]
+		- [[CAS]]
+		- [[Callido]]
+		- [[Extended Essay]]
+		- [[Outdoor Recreation Certificate 2]]
+		- [[Concept Mapping]]
+- [[10 CORE class]]
 - #10ib, #CORE, #CAS
 - [[Skills]] to develop
 	- [[Speed reading]]
