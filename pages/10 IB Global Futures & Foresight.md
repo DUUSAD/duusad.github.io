@@ -20,6 +20,7 @@ title:: 10 IB Global Futures & Foresight
 	-
 - [[Term 2]]
 	- Unit: [[Gaming the Futures]]
+	  Games as
 	- [[Planner]] #T2
 		- [[T2W1]]
 		- [[T2W2]]
