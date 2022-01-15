@@ -9,4 +9,7 @@ title:: my LSOB PKM ecosystem & workflow
 	- use as an example for others of PKM/wiki
 	- link to school website and Moodle
 	- Do I polish and publish this through Obsidian a la Metamechanic?
+	- all pages here generally should be created in duusad-github first
+		- #publish ?
+		- publish:: true?
 -
