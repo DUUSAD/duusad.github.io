@@ -11,5 +11,5 @@ title:: my LSOB PKM ecosystem & workflow
 	- Do I polish and publish this through Obsidian a la Metamechanic?
 	- all pages here generally should be created in duusad-github first
 		- #publish ?
-		- publish:: true?
+		- publish:: true? - no, this makes it publishable on **this** site
 -
