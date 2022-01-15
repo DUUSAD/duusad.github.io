@@ -167,7 +167,7 @@
  :ref/linked-references-collapsed-threshold 50
  :ui/show-brackets? false
  :feature/enable-timetracking? false
- :favorites ["TODO" "IB" "Tools for Thinking" "10 IB Physics" "10 IB GFF" "12 PHY"]
+ :favorites ["10 ib global futures & foresight" "TODO" "IB" "Tools for Thinking" "10 IB Physics" "12 PHY"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
