@@ -19,17 +19,19 @@ title:: 10 IB Global Futures & Foresight
 		- [[T1W10]]
 	-
 - [[Term 2]]
-  collapsed:: true
-	- [[T2W1]]
-	- [[T2W2]]
-	- [[T2W3]]
-	- [[T2W4]]
-	- [[T2W5]]
-	- [[T2W6]]
-	- [[T2W7]]
-	- [[T2W8]]
-	- [[T2W9]]
-	- [[T2W10]]
+	- Unit: [[Gaming the Futures]]
+	- [[Planner]] #T2
+		- [[T2W1]]
+		- [[T2W2]]
+		- [[T2W3]]
+		- [[T2W4]]
+		- [[T2W5]]
+		- [[T2W6]]
+		- [[T2W7]]
+		- [[T2W8]]
+		- [[T2W9]]
+		- [[T2W10]]
+-
 - [[Term 3]]
   collapsed:: true
 	- [[T3W1]]
