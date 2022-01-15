@@ -33,3 +33,5 @@ alias:: core, COR
 - [[FACTs 4C]]
 - [[Mental Models]]
 - [[Mandalas]]
+- [[Habit-building]] vs [[Goal-setting]]
+-
