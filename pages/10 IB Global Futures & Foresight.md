@@ -3,17 +3,19 @@ title:: 10 IB Global Futures & Foresight
 - #[[Futures & Foresight Education]] #IB #Year10
 - alias:: GFF, 10GFF
 - [[Term 1]]
-	-
-	- [[T1W1]]
-	- [[T1W2]]
-	- [[T1W3]]
-	- [[T1W4]]
-	- [[T1W5]]
-	- [[T1W6]]
-	- [[T1W7]]
-	- [[T1W8]]
-	- [[T1W9]]
-	- [[T1W10]]
+	- Unit:
+	- [[Planner]]
+	  collapsed:: true
+		- [[T1W1]]
+		- [[T1W2]]
+		- [[T1W3]]
+		- [[T1W4]]
+		- [[T1W5]]
+		- [[T1W6]]
+		- [[T1W7]]
+		- [[T1W8]]
+		- [[T1W9]]
+		- [[T1W10]]
 	-
 - [[Term 2]]
   collapsed:: true
