@@ -9,6 +9,7 @@ alias:: core, COR
 	- [[Callido]]
 	- [[Extended Essay]]
 	- [[Outdoor Recreation Certificate 2]]
+	- [[Concept Mapping]]
 	-
 - #10ib, #CORE, #CAS
 - [[Skills]] to develop
