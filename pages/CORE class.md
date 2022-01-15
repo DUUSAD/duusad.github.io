@@ -6,6 +6,9 @@ alias:: core, COR
 	- [[QCAA points]] security
 		- [[Microsoft Office certificate]]
 	- [[CAS]]
+	- [[Callido]]
+	- [[Extended Essay]]
+	- [[Outdoor Recreation Certificate 2]]
 	-
 - #10ib, #CORE, #CAS
 - [[Skills]] to develop
