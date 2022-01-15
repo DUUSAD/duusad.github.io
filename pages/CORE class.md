@@ -21,7 +21,7 @@ alias:: core, COR
 - [[ICT4IB]]
 - [[CAS]]
 	- Group projects
-	-
+	- [[BCP - Batteries, Compost, Plastic]]
 - [[Origami]]
 - [[MMV - Meditation, Mindfulness & Visualization]]
 - [[Tools For Thinking]]
