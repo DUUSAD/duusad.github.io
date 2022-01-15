@@ -1,3 +1,5 @@
-alias:: habits, habit
+alias:: Habits, habit
+title:: habits
 
+-
 -
