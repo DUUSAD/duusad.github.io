@@ -5,4 +5,4 @@
 - [[Administration]]
 - [[Camps, Trips & Excursions]]
 - [[CAS]]
-- [[IB-CORE+]]
+- [[CORE class]]
