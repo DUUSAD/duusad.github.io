@@ -1,11 +1,11 @@
 - #core+ #3d #[[Social Media]] #CHT #interactive
 - [Centre for Humane Technology - Youth Toolkit](https://www.humanetech.com/youth)
-	- Issue Guides
+	- Issue Guides #core+
 		- [[The Attention Economy - CHT]]
 		- [[Persuasive Technology - CHT]]
 		- [[Social Media & The Brain - CHT]]
 		- [[Seeing the Consequences - CHT]]
-	- Action Guides
+	- Action Guides #GFF
 		- [[Tell Your Social Media Story]]
 		- [[Take Control of Your Social Media Usage]]
 		  How do I shift my use of technology for good?
