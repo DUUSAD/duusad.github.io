@@ -1,4 +1,4 @@
 title:: CORE class
-alias:: core
+alias:: core, COR
 
 -
