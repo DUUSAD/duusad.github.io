@@ -1,1 +1,3 @@
-- [[Ralph Hertwig]] -
+- [[Ralph Hertwig]] - [[psychologist]], [[Max Planck Institute for Human Development]]
+- #e
+-
