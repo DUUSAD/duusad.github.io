@@ -1,4 +1,0 @@
-- #Logseq #Obsidian #pkm
-- duusad-github.io = my #logseq repository for everything at school.
-	- First place I go to
--
