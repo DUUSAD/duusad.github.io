@@ -5,7 +5,7 @@ title:: 10 IB Global Futures & Foresight
 - [[Term 1]]
 	- Unit: [[Personal Futures]]
 	  The futures of me, my life, education, work
-	- [[Planner]]
+	- [[Planner]] #T1
 	  collapsed:: true
 		- [[T1W1]]
 		- [[T1W2]]
@@ -17,6 +17,7 @@ title:: 10 IB Global Futures & Foresight
 		- [[T1W8]]
 		- [[T1W9]]
 		- [[T1W10]]
+	-
 	-
 - [[Term 2]]
 	- Unit: [[Gaming the Futures]]
