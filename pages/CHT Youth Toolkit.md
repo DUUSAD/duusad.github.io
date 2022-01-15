@@ -1,6 +1,8 @@
 - #core+ #3d #[[Social Media]] #CHT #interactive
 - [Centre for Humane Technology - Youth Toolkit (https://www.humanetech.com/youth)
-	-
+	- 4 x
 - [Teaching for Humane Technology](https://www.humanetech.com/youth/teaching-for-humane-technology)
+	- for teachers
 	- Get the most out of the Center for Humane Technology’s Youth Toolkit in your classroom.
+-
 -
