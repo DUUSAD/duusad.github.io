@@ -34,4 +34,4 @@ alias:: core, COR
 - [[Mental Models]]
 - [[Mandalas]]
 - [[Habit-building]] vs [[Goal-setting]]
--
+- [[Kokoda Challenge]] with [[Kokoda walking preparation]]
