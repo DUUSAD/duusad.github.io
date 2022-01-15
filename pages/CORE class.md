@@ -1,10 +1,11 @@
 title:: CORE class
 alias:: core, COR
 
-- [[11 CORE class]]
+- [[11 CORE class]] #11IB
 - Components
 	- [[QCAA points]] security
 		- [[Microsoft Office certificate]]
+	- [[CAS]]
 	-
 - #10ib, #CORE, #CAS
 - [[Skills]] to develop
