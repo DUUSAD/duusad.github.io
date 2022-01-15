@@ -1,0 +1,4 @@
+- #[[GFF Topics]]
+- [[John Rawls]] - [[The Veil of Ignorance]]
+	- if people came up with the governing principles of a society without the knowledge of what their own status in that society would be, they would enact fairer laws
+-
