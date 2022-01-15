@@ -3,6 +3,27 @@ alias:: core, COR
 
 - [[11 CORE class]]
 - Components
-	- QCAA point security
-		- Microsoft Office certificate
+	- [[QCAA points]] security
+		- [[Microsoft Office certificate]]
 	-
+- #10ib, #CORE, #CAS
+- [[Skills]] to develop
+	- [[Speed reading]]
+	- [[Touch typing]]
+	- [[Study Skills]]
+- [[ASX Stock Exchange Game]]
+- [[pre-TOK course]]
+- [[ICT4IB]]
+- [[CAS]]
+	- Group projects
+- [[Origami]]
+- [[MMV - Meditation, Mindfulness & Visualization]]
+- [[Tools For Thinking]]
+	- [[Study Skills]]
+	- [[Argument Mapping]]
+	- [[Concept Mapping]]
+	- [[Knowledge Management]]
+- [[Global Issues ]]
+- [[FACTs 4C]]
+- [[Mental Models]]
+- [[Mandalas]]
