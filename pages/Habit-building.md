@@ -1,2 +1,2 @@
 - #Habits
--
+- see also: #Goal-setting #Goals
