@@ -1,5 +1,6 @@
 alias:: 
 template:: Staff Template
+public:: false
 Role: Teacher
 Subjects:
 
