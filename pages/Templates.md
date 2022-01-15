@@ -3,7 +3,8 @@ template:: Staff Template
 Role: Teacher
 Subjects:
 
-- alias::
+- alias:: 
+  public:: false
   template:: Student template
   Role: Student
   HL Subjects:
