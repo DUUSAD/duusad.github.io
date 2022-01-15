@@ -4,7 +4,7 @@ title:: my LSOB PKM ecosystem & workflow
 - duusad-github.io = my #logseq repository for everything at school.
 	- First place I go to
 	- this should house other LSOB structures which I copy-paste as required
-	- GFF, ECCII work is done here too
+	- GFF, ECCII & CORE+ work is done here too
 - mcshs-ib.github.io = public face of [[MCSHS-IB]] for students and parents
 	- staff can also see, of course
 	- use as an example for others of PKM/wiki
