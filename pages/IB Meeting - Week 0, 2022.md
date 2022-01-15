@@ -7,3 +7,4 @@ title:: IB Meeting - Week 0, 2022
 	- [[Systems and Practices]]
 	- Novel Developments
 - [[Concept Mapping]]
+- [[CORE]]
