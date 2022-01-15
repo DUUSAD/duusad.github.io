@@ -8,5 +8,5 @@ title:: my LSOB PKM ecosystem & workflow
 	- staff can also see, of course
 	- use as an example for others of PKM/wiki
 	- link to school website and Moodle
-	- Do I polish this through Obsid
+	- Do I polish and publish this through Obsidian a la Metamechanic?
 -
