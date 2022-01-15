@@ -1,3 +1,3 @@
-- #core+ #3d #[[Social Media]]
-- https://www.humanetech.com/youth
+- #core+ #3d #[[Social Media]] #CHT
+- [Centre for Humane Technology - Youth Toolkit](https://www.humanetech.com/youth)
 -
